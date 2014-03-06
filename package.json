@@ -2,6 +2,6 @@
   "name": "sample-testing-phantomjs",
   "version": "0.0.1",
   "devDependencies": {
-
+	"phantomjs" : "latest"
   }
 }
