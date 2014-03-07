@@ -1,2 +1,3 @@
-console.log('Hello, world!');
+console.log("Hello, world!");
+/*global phantom*/
 phantom.exit();
