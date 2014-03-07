@@ -2,6 +2,8 @@
   "name": "sample-testing-phantomjs",
   "version": "0.0.1",
   "devDependencies": {
-	"phantomjs" : "latest"
+    "phantomjs": "latest",
+    "grunt": "^0.4.2",
+    "grunt-eslint": "^0.3.2"
   }
 }
